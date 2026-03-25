@@ -1,6 +1,7 @@
 fastapi==0.110.0
 uvicorn==0.28.0
 pydantic==2.6.3
-tensorflow==2.15.0  # Note: TF versions may vary by python version, but we'll use latest compatible
-numpy==1.26.4
-scikit-learn==1.4.1.post1
+python-dotenv==1.0.1
+tensorflow>=2.15.0
+numpy
+scikit-learn
